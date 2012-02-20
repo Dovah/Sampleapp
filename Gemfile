@@ -6,6 +6,7 @@ gem 'rails', '3.2.1'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
 
 group :development do
   gem 'rspec-rails'
