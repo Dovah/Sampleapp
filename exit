@@ -1,0 +1,35 @@
+commit 629c5fd3a5c7aca305e764043b0d29ce1097ccce
+Author: Eduardo Vergara <eduardo@magrocode.com>
+Date:   Mon Feb 20 16:20:55 2012 -0300
+
+    user model cap 6.3.2
+
+commit f5532c3edf3e62511d014718844572255432472f
+Author: Eduardo Vergara <eduardo@magrocode.com>
+Date:   Fri Feb 17 17:08:12 2012 -0300
+
+    layouts y rutas
+
+commit e9908fd6be66c3db2539f6dc865467bf112009b8
+Author: Eduardo Vergara <eduardo@magrocode.com>
+Date:   Fri Feb 17 15:35:32 2012 -0300
+
+    quitando index de ruby
+
+commit 87452755c25d1e6e19299de05954dc69e0767972
+Author: Eduardo Vergara <eduardo@magrocode.com>
+Date:   Fri Feb 17 12:00:03 2012 -0300
+
+    paginas estaticas hechas
+
+commit dd78561e6bb53a14df9f4a2c1162b7e70da75f89
+Author: Eduardo Vergara <eduardo@magrocode.com>
+Date:   Fri Feb 17 11:18:18 2012 -0300
+
+    agregar control paginas
+
+commit a62cf1f76a07c4126034d0649292f026ea515ee3
+Author: Eduardo Vergara <eduardo@magrocode.com>
+Date:   Fri Feb 17 11:08:02 2012 -0300
+
+    inicial

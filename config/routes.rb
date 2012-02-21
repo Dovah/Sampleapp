@@ -1,4 +1,5 @@
 SampleApp::Application.routes.draw do
+  resources :user
   get "user/new"
 
   match '/signup', :to => 'user#new'
