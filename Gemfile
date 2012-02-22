@@ -7,6 +7,7 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3'
 gem 'annotate', :git => 'git://github.com/ctran/annotate_models.git'
+gem 'gravatar_image_tag'
 
 group :development do
   gem 'rspec-rails'
@@ -15,6 +16,7 @@ end
 group :test do
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'factory_girl_rails'
 end
 
 
