@@ -87,6 +87,11 @@ describe UsersController do
                  :password_confirmation => "foobar"}
       end
       
+      it "debe registrar la entrada de usuario" do
+        post :create, :user => @attr
+        controller.should be_signed_in
+      end
+      
       it "debe crear el usuario" do
         lambda do
           post :create, :user => @attr
@@ -102,6 +107,8 @@ describe UsersController do
         post :create, :user => @attr
         flash[:success].should =~ /welcome to the sample app/i
       end
+      
+      
     end
   end
 end
